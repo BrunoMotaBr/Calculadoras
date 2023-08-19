@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "L73XXlXTfSJ51Et/aYaiaEYKFgTLr///dlGUME5RSM+7463Js2DJ2wWTzryCjHjJ2gZ/o083yhY2ndh/FyDKXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Projetos\\7DaysOfCode\\Calculadora\\Calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
